@@ -1,5 +1,5 @@
 # main
-game
+earth OM
 const=zoom in
 const=zoomout
 <!DOCTYPE html>
