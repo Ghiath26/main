@@ -1,22 +1,11 @@
-# main
-earth OM
-<!DOCTPYE html>
-<html lang"eg">
-  <style>
-  a:link {
-      color:green;
-      background-color:🟦;
-      text-decoration:none;
-      <style>
-    <body>
-  <head>
-    url:https://static.vecteezy.com/system/resources/thumbnails/026/189/823/small_2x/captivating-urban-city-skyline-building-and-clouds-background-ai-generated-photo.jpg;
-  <body>
-<head>
-:),
-    
-و
-
-
-
-
+#main
+{
+  "name": "Oman Royal Flight 747-8i",
+  "description": "Boeing 747-8i livery for Oman Royal Flight",
+  "aircraft": "747-8",
+  "texture": "https://www.example.com/path/to/your/texture.png",
+  "author": "Your Name",
+  "license": "Free to use",
+  "type": "livery",
+  "default": true
+}
